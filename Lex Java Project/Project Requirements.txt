@@ -1,0 +1,40 @@
+
+
+All things added to this project
+
+  ///////////////////////////////////////
+        // Easy (1 point each)
+
+
+        *Finish the computers turn(0 points!) ----Done
+
+	      Add a fourth child to the warrior, weapon or armour classes
+          Witch Warrior done -- Scale Armour done--  Bow Weapon Done --  Printouts:  Bow Witch & Scale added  --Done --
+
+
+        Prompt the user for a name for their warrior and randomly assign a name to the enemy 
+        - must be used during the match (as in print outs)    -- Done
+
+        Add another attack type (3rd choice)  --Print out is done  -- Super attack Added Done --
+
+        Provide basic input validation  -- All Done --
+
+        Add some color to the output in the terminal  -- Done --
+
+        Add custom prints for the welcome, and turn by turn stats, and game over!  --Stats, turns and game over done--
+
+        Give the player the ability to surrender.   == Done ==
+
+        Track the number of turns, the total damage done and prints these stats after the match. -- Done --
+
+        8
+
+        /////////////////////////////////////////
+        // Med (3 points each)
+
+        Provide a way for the player to play again (without restarting the program from the beginning) -- Done
+
+        re-theme the application - Star Wars, Game of Thrones, Super heros etc.
+        All classes/packages objects must be renamed.                                 -- Done -- rethemed to Apex Legends
+
+
